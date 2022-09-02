@@ -18,4 +18,4 @@ class ProductFactory extends Factory
             'detail'=>$this->faker->text
         ];
     }
-}
+}  
